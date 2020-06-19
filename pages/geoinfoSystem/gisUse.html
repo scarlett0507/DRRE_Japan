@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>GISの活用</title>
+	<meta name="renderer" content="webkit">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+	<meta name="apple-mobile-web-app-status-bar-style" content="black">
+	<meta name="apple-mobile-web-app-capable" content="yes">
+	<meta name="format-detection" content="telephone=no">
+
+    <link rel="stylesheet" href="../../layui/css/layui.css" media="all" />
+    <link rel="stylesheet" href="../../css/public.css" />
+    <link rel="stylesheet" href="../../layui/css/mind.css" />
+    <link rel="stylesheet" href="../../layui/css/disaster_font.css" />
+        <style>
+       body {
+   font-family: Georgia, "游明朝", "Yu Mincho", "游明朝体", YuMincho, "ヒラギノ明朝 Pro", "Hiragino Mincho ProN", "MS P明朝", "MS PMincho", HGS明朝E, "MS Mincho", serif;
+}
+   </style>
+</head>
+
+<body class="childrenBody">
+    <blockquote class="layui-elem-quote">
+        <a class="layui-btn layui-btn-radius openJapan_btn" onClick="javascript :history.back(-1);" target="_blank">前のページに戻る</a>
+        <p style="text-align:right">推薦勉強時間：<em class="layui-word-aux">15分</em></p>
+    </blockquote>
+    <div id="title">
+        <fieldset class="layui-elem-field layui-field-title">
+            <legend><h3>GISの活用</h3></legend>
+        </fieldset>
+    </div>
+    <div class="content"><p>GISの技術は私たちのまわりにも普及してきている。例えば、個人の利用としてはカーナビゲーションや携帯電話による道案内サービスなど上がる。インターネット上には、操作ガイドがなくても簡単に利用できるデジタル地図が多い。</p></div>
+    <div class="content"><p>さらに、地方公共団体でも、の利用は拡大している。上下水道や道路の管理など、もともとは各部署が紙の地図をベースに管理してきた情報を電子化し、GISにより統一的に管理することで、行政サービスの向上が期待されている。</div>
+    <div class="demo" >
+        <iframe src="gisUse_map.html" frameborder="0" style="width:100%; height:600px;"></iframe>
+    </div>
+    <blockquote class="layui-elem-quote">
+    質問：<em class="layui-word-aux">デジタル地図の利点を三つあげてみよう</em>
+    </blockquote>    
+    <script type="text/javascript" src="../../layui/layui.js"></script>
+    <script type="text/javascript">
+        layui.config({
+            base: "../../js/"
+        }).extend({
+            "bodyTab": "bodyTab"
+        })
+        layui.use(['code', 'jquery', 'bodyTab'], function () {
+            var $ = layui.$,
+                tab = layui.bodyTab();
+            layui.code({
+                about: false
+            });
+            $(".goDataMenu").click(function () {
+                parent.tab.tabAdd($(this));
+            })
+        })
+    </script>
+       
+</body>
+</html>

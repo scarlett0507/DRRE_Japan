@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>津波被害と防災</title>
+	<meta name="renderer" content="webkit">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+	<meta name="apple-mobile-web-app-status-bar-style" content="black">
+	<meta name="apple-mobile-web-app-capable" content="yes">
+	<meta name="format-detection" content="telephone=no">
+
+    <link rel="stylesheet" href="../../layui/css/layui.css" media="all" />
+    <link rel="stylesheet" href="../../css/public.css" />
+    <link rel="stylesheet" href="../../layui/css/mind.css" />
+    <link rel="stylesheet" href="../../layui/css/disaster_font.css" />
+    <style>
+       body {
+   font-family: Georgia, "游明朝", "Yu Mincho", "游明朝体", YuMincho, "ヒラギノ明朝 Pro", "Hiragino Mincho ProN", "MS P明朝", "MS PMincho", HGS明朝E, "MS Mincho", serif;
+}
+   </style>
+</head>
+
+<body class="childrenBody">
+    <blockquote class="layui-elem-quote">
+        <a class="layui-btn layui-btn-radius openJapan_btn" onClick="javascript :history.back(-1);" target="_blank">前のページに戻る</a>
+        <p style="text-align:right">推薦勉強時間：<em class="layui-word-aux">15分</em></p>
+    </blockquote>
+    <!-- 海啸介绍的标题 -->
+    <div id="title">
+        <fieldset class="layui-elem-field layui-field-title">
+            <legend><h3>津波について</h3></legend>
+        </fieldset>
+    </div>
+    <div class="content"><p>津波の「津」とは、船着場や渡し場を示す港を意味します。すなわち、「津波」とは津（港）に押し寄せる、異常に大きな波です。<br>津波は、海底で発生する地震に伴う海底地盤の隆起・沈降や海底における地滑りなどにより、その周辺の海水が上下に変動することによって引き起こされるものです。発生した海水面の動き(上下動)が特に大規模なものであれば、沿岸に達すると破壊力の大きな大津波となります。<v>(国土交通省ホームページより)</v></div>
+    <!-- 面板的背景颜色和手风琴折叠的设置，海啸发生的原因 -->
+    <div style="padding:20px; background-color: #F2F2F2; width: 90%; margin: 0 auto;">
+      <div class="layui-row layui-col-space15">
+        <div class="layui-col-md12">
+          <div class="layui-card">
+            <div class="layui-card-header">発生原因</div>
+            <div class="layui-card-body">
+            <div class="layui-collapse" lay-accordion="">
+              <div class="layui-colla-item">
+                <h2 class="layui-colla-title">詳細情報</h2>
+              <div class="layui-colla-content">
+                <p>津波は、海底地震に伴う地殻変動によるものが一般的です。地球表面上のプレートは地球内部に沈降するとき、反対側に接触しているプレートを引き込みます。引き込まれたプレートはひずみによる変形を蓄積させ、その限界を超えるとひずみを解放させ、プレートの端を大きく変位させます。この変位が海水を大きく動かし、津波の原因となるのです。また、その他の原因として海底火山の爆発、海岸付近の火山による土砂の大規模崩落などもあります。<v>(国土交通省ホームページより)</v> <button onclick="document.getElementById('id01').style.display='block'" class="layui-btn layui-btn-primary layui-btn-sm"><i class="layui-icon">&#xe64a;</i></button></p>
+              </div>
+              </div>
+              </div>        
+            </div>
+          </div>
+        </div>
+      </div>
+    </div> 
+    <!-- 洪水发生原因的相关图片，id01是降雨，id02是高潮，id03是融雪 -->
+    <div id="id01" class="modal">
+      <div class="modal-content">
+        <span onclick="document.getElementById('id01').style.display='none'" class="close">&times;</span>
+          <div class="imgstar">
+            <img id="myImg" src="../../img/inner/reason.jpg" alt="flood" style="width:90%; height:90%;">
+            <br><in>© 国土交通省ホームページ</in>
+          </div> 
+      </div>
+    </div>
+   
+    <!-- 洪水的例子，分别为中国和日本 -->
+    <div id="title">
+        <fieldset class="layui-elem-field layui-field-title">
+            <legend><h3>身近な津波</h3></legend>
+        </fieldset>
+    </div>
+    <!-- 中国与日本例子的入口，面板 -->
+    <div style="padding: 20px; background-color: #F2F2F2; width: 90%; margin: 0 auto; text-align: center;">
+  <div class="layui-row layui-col-space15">
+      <div class="layui-card">
+        <div class="layui-card-header"><h2>松阪市の津波</h2></div>
+        <div class="layui-card-body">
+          <p><br>過去概ね100年から150年間隔でこの地域を襲い、揺れと津波により三重県に甚大な被害をもたらしてきた、歴史的にこの地域で起こり得ることが実証されている南海トラフ地震です。<br>あらゆる可能性を科学的見地から考慮し、発生する確率は極めて低いものの、理論上は起こり得る最大クラスの南海トラフ地震です。作成した本市の津波ハザードマップは、この想定に基づいて作成しています。<v>(松阪市ホームページより)</v><br>
+          <div><a class="layui-btn layui-btn-radius openJapan_btn" target="_blank">地図を見る</a></div><br>
+          <!--  <a href="https://scarlett0507.github.io/0817map/">-->
+          <img border="0" width="86%" src="../../img/ryoshi.jpg"/>
+          <v><br>三重県松阪市猟師町猟師漁港　© 三重県ホームページ</v>
+        </div>
+      </div>
+    </div>
+</div>
+    <div class="layui-footer" style="text-align:right">
+                <!-- 底部固定区域 -->
+                <font size="1.5">© Csis -  本サイトに関するお問い合わせは</font>
+                <a href="#"><font size="2">songjiali@csis.u-tokyo.ac.jp</font></a>
+                <font size="1.5">までお願いします。</font>
+                <a href="http://www-new.csis.u-tokyo.ac.jp" rel="nofollow"><img src="../../img/logo_csis_mini.png" class="footerlogo" width="20%" /></a>
+                <font size="0.5">...</font>
+     </div>
+    <script type="text/javascript" src="../../layui/layui.js"></script>
+    <script type="text/javascript">
+        layui.config({
+            base: "../../js/"
+        }).extend({
+            "bodyTab": "bodyTab"
+        })
+        layui.use(['code', 'jquery', 'bodyTab'], function () {
+            var $ = layui.$,
+                tab = layui.bodyTab();
+            layui.code({
+                about: false
+            });
+            $(".goDataMenu").click(function () {
+                parent.tab.tabAdd($(this));
+            })
+        })
+    </script>   
+    <script type="text/javascript" src="../../js/innerPage_tsunami.js"></script>
+</body>
+</html>

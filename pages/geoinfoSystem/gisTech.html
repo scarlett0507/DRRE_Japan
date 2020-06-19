@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>GISを支える技術</title>
+	<meta name="renderer" content="webkit">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+	<meta name="apple-mobile-web-app-status-bar-style" content="black">
+	<meta name="apple-mobile-web-app-capable" content="yes">
+	<meta name="format-detection" content="telephone=no">
+
+    <link rel="stylesheet" href="../../layui/css/layui.css" media="all" />
+    <link rel="stylesheet" href="../../css/public.css" />
+    <link rel="stylesheet" href="../../layui/css/mind.css" />
+    <link rel="stylesheet" href="../../layui/css/disaster_font.css" />
+        <style>
+       body {
+   font-family: Georgia, "游明朝", "Yu Mincho", "游明朝体", YuMincho, "ヒラギノ明朝 Pro", "Hiragino Mincho ProN", "MS P明朝", "MS PMincho", HGS明朝E, "MS Mincho", serif;
+}
+   </style>
+</head>
+
+<body class="childrenBody">
+    <blockquote class="layui-elem-quote">
+        <a class="layui-btn layui-btn-radius openJapan_btn" onClick="javascript :history.back(-1);" target="_blank">前のページに戻る</a>
+        <p style="text-align:right">推薦勉強時間：<em class="layui-word-aux">10分</em></p>
+    </blockquote>
+    <div id="title">
+        <fieldset class="layui-elem-field layui-field-title">
+            <legend><h3>GISを支える技術</h3></legend>
+        </fieldset>
+    </div>
+    <div class="content"><p>GISには、緯度・経度などの位置情報が重要である。それを支える技術の一つが<a class="tooltip">GPS<span class="tooltiptext">Global Positioning System</span></a>
+    （全地球測位システム）である。GPSは、人工衛星からの電波を受信することで、地球の上どこにいても自分の位置が分かる技術である。</div>
+    <div class="content"><p>一方、には航空写真や衛星画像などの観測データも大切である。それを支える技術の一つが<a class="tooltip">RS<span class="tooltiptext">Remote Sensing</span></a>
+    （遠隔探査）である。この技術により観測したデータは、地球上の特定の場所に関する情報であるため、緯度・経度などの位置情報と対応させることが可能である。リモートセンシングは、同じ場所の観測データを周期的に収集したり、比較的広域にわたってデータを観測・蓄積したりすることにすぐれている。</div>
+    <div class="content"><p>リモートセンシングの応用</div>
+    <div class="demo" >
+        <iframe src="gisTech_map.html" frameborder="0" style="width:100%; height:600px;"></iframe>
+    </div>
+    <blockquote class="layui-elem-quote">
+    質問：<em class="layui-word-aux">GISのデータのうち、どのような情報をGPSが支えているのが説明してみよう。</em>
+    </blockquote>    
+    <script type="text/javascript" src="../../layui/layui.js"></script>
+    <script type="text/javascript">
+        layui.config({
+            base: "../../js/"
+        }).extend({
+            "bodyTab": "bodyTab"
+        })
+        layui.use(['code', 'jquery', 'bodyTab'], function () {
+            var $ = layui.$,
+                tab = layui.bodyTab();
+            layui.code({
+                about: false
+            });
+            $(".goDataMenu").click(function () {
+                parent.tab.tabAdd($(this));
+            })
+        })
+    </script>
+       
+</body>
+</html>

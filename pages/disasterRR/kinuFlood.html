@@ -1,0 +1,143 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>洪水と治水</title>
+	<meta name="renderer" content="webkit">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+	<meta name="apple-mobile-web-app-status-bar-style" content="black">
+	<meta name="apple-mobile-web-app-capable" content="yes">
+	<meta name="format-detection" content="telephone=no">
+
+    <link rel="stylesheet" href="../../layui/css/layui.css" media="all" />
+    <link rel="stylesheet" href="../../css/public.css" />
+    <link rel="stylesheet" href="../../layui/css/mind.css" />
+    <link rel="stylesheet" href="../../layui/css/disaster_font.css" />
+    <style>
+       body {
+   font-family: Georgia, "游明朝", "Yu Mincho", "游明朝体", YuMincho, "ヒラギノ明朝 Pro", "Hiragino Mincho ProN", "MS P明朝", "MS PMincho", HGS明朝E, "MS Mincho", serif;
+}
+   </style>
+</head>
+
+<body class="childrenBody">
+    <blockquote class="layui-elem-quote">
+        <a class="layui-btn layui-btn-radius openJapan_btn" onClick="javascript :history.back(-1);" target="_blank">前のページに戻る</a>
+        <p style="text-align:right">推薦勉強時間：<em class="layui-word-aux">15分</em></p>
+    </blockquote>
+    <!-- 洪水介绍的标题 -->
+    <div id="title">
+        <fieldset class="layui-elem-field layui-field-title">
+            <legend><h3>洪水について</h3></legend>
+        </fieldset>
+    </div>
+    <div class="content"><p>洪水とは、集中豪雨などが原因で河川が増水氾濫し、陸地が水びたしになることによって被害を及ぼすことである。</div>
+    <!-- 面板的背景颜色和手风琴折叠的设置，洪水发生的原因 -->
+    <div style="padding:20px; background-color: #F2F2F2; width: 90%; margin: 0 auto;">
+      <div class="layui-row layui-col-space15">
+        <div class="layui-col-md12">
+          <div class="layui-card">
+            <div class="layui-card-header">発生原因</div>
+            <div class="layui-card-body">
+            <div class="layui-collapse" lay-accordion="">
+              <div class="layui-colla-item">
+                <h2 class="layui-colla-title">降雨(集中豪雨・台風などによる)</h2>
+              <div class="layui-colla-content">
+                <p>豪雨による洪水は、降水が地中に浸透せず、河川にあふれ出るから発生するのではない。多量の降水があった時など、地中に浸透しない水が地表で水流を作ることがある。<button onclick="document.getElementById('id01').style.display='block'" class="layui-btn layui-btn-primary layui-btn-sm"><i class="layui-icon">&#xe64a;</i></button></p>
+              </div>
+              </div>
+              <div class="layui-colla-item">
+                <h2 class="layui-colla-title">高潮（台風などによる）</h2>
+              <div class="layui-colla-content">
+                <p>高潮や、海から河口へ吹く風により、下流部の河流が妨げられたり、激しい場合は海水が河川へ逆流することがある。このような場合、河川への流入なしでも洪水が起こりうる。ただし実際はこのような現象は台風の豪雨に伴われることが多い。<button onclick="document.getElementById('id02').style.display='block'" class="layui-btn layui-btn-primary layui-btn-sm"><i class="layui-icon">&#xe64a;</i></button></p>
+              </div>
+              </div>
+              <div class="layui-colla-item">
+                <h2 class="layui-colla-title">融雪</h2>
+              <div class="layui-colla-content">
+                <p>積雪地では、冬季の異常な気温上昇、暖かい強風、降雨や、季節変動による春季の気温上昇により融雪を要因とする洪水が発生する。洪水の規模として夏季の降雨よりも春季の融雪を要因とする方が大規模となる場合が多い。<button onclick="document.getElementById('id03').style.display='block'" class="layui-btn layui-btn-primary layui-btn-sm"><i class="layui-icon">&#xe64a;</i></button></p>
+              </div>
+              </div>
+              </div>        
+            </div>
+          </div>
+        </div>
+      </div>
+    </div> 
+    <!-- 洪水发生原因的相关图片，id01是降雨，id02是高潮，id03是融雪 -->
+    <div id="id01" class="modal">
+      <div class="modal-content">
+        <span onclick="document.getElementById('id01').style.display='none'" class="close">&times;</span>
+          <div class="imgstar">
+            <img id="myImg" src="../../img/inner/hshui.jpg" alt="flood" style="width:90%; height:90%;">
+          </div> 
+      </div>
+    </div>
+    <div id="id02" class="modal">
+      <div class="modal-content">
+        <span onclick="document.getElementById('id02').style.display='none'" class="close">&times;</span>
+          <div class="imgstar">
+            <img id="myImg" src="../../img/inner/gao.jpg" alt="flood" style="width:90%; height:90%;">
+          </div> 
+      </div>
+    </div>
+    <div id="id03" class="modal">
+      <div class="modal-content">
+        <span onclick="document.getElementById('id03').style.display='none'" class="close">&times;</span>
+          <div class="imgstar">
+            <img id="myImg" src="../../img/inner/xue.jpg" alt="flood" style="width:90%; height:90%;">
+          </div> 
+      </div>
+    </div>
+    <!-- 洪水的例子，分别为中国和日本 -->
+    <div id="title">
+        <fieldset class="layui-elem-field layui-field-title">
+            <legend><h3>日本と中国の例</h3></legend>
+        </fieldset>
+    </div>
+    <!-- 中国与日本例子的入口，面板 -->
+    <div style="padding: 20px; background-color: #F2F2F2; width: 90%; margin: 0 auto; text-align: center;">
+  <div class="layui-row layui-col-space15">
+      <div class="layui-card">
+        <div class="layui-card-header"><h2>茨城県・鬼怒川</h2></div>
+        <div class="layui-card-body">
+          <p><br>鬼怒川は、関東平野東部を北から南へと流れ利根川に合流する一級河川である。全長176.7kmで、利根川の支流の中で最も長い。2015年関東・東北豪雨では，一級河川である鬼怒川の堤防が決壊し，鬼怒川と小貝川に挟まれた平地部の約40km<sup>2</sup>にわたって大規模な浸水被害が生じた。消防庁による被害まとめによると、20人の死者が確認されている。また、全国で負傷者82人、住宅の全壊81棟、半壊7,090棟、一部破損384棟、非住家被害1,722棟となっている。<br>
+          <br></p>
+          <div><a class="layui-btn layui-btn-radius openJapan_btn" target="_blank">地図を見る</a></div><br>
+          <!--  <a href="https://scarlett0507.github.io/0817map/">-->
+          <img border="0" width="86%" src="../../img/kinu.jpg"/>
+          <v><br>鬼怒川からあふれた水で冠水した国道で立ち往生した車の屋根から消防のボートで救助された人たち © 日中新聞</v>
+        </div>
+      </div>
+    </div>
+    </div>
+    <div class="layui-footer" style="text-align:right">
+                <!-- 底部固定区域 -->
+                <font size="1.5">© Csis -  本サイトに関するお問い合わせは</font>
+                <a href="#"><font size="2">songjiali@csis.u-tokyo.ac.jp</font></a>
+                <font size="1.5">までお願いします。</font>
+                <a href="http://www-new.csis.u-tokyo.ac.jp" rel="nofollow"><img src="../../img/logo_csis_mini.png" class="footerlogo" width="20%" /></a>
+                <font size="0.5">...</font>
+     </div>
+    <script type="text/javascript" src="../../layui/layui.js"></script>
+    <script type="text/javascript">
+        layui.config({
+            base: "../../js/"
+        }).extend({
+            "bodyTab": "bodyTab"
+        })
+        layui.use(['code', 'jquery', 'bodyTab'], function () {
+            var $ = layui.$,
+                tab = layui.bodyTab();
+            layui.code({
+                about: false
+            });
+            $(".goDataMenu").click(function () {
+                parent.tab.tabAdd($(this));
+            })
+        })
+    </script>   
+    <script type="text/javascript" src="../../js/map.js"></script>
+</body>
+</html>
