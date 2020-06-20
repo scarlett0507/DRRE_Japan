@@ -11,7 +11,7 @@ layui.use(['form','layer','laydate','table','laytpl'],function(){
         var index = layui.layer.open({
             title : "日本の例",
             type : 2,
-            content : "../disasterPreven/TsunamiMap.html",
+            content : "../disasterRR/mainTsunami_map.html",
             success : function(layero, index){
                 var body = layui.layer.getChildFrame('body', index);
                 setTimeout(function(){
