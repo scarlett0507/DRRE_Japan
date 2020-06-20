@@ -9,7 +9,7 @@ layui.use(['form','layer','laydate','table','laytpl'],function(){
     //打开日本地图
     function openJapan(edit){
         var index = layui.layer.open({
-            title : "日本の例",
+            title : "松阪市の津波",
             type : 2,
             content : "../disasterRR/mainTsunami_map.html",
             success : function(layero, index){
