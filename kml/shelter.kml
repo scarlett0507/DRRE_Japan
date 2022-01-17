@@ -10,7 +10,7 @@
     <Placemark id="ID_00000">
       <name></name>
       <Snippet></Snippet>
-      <description><![CDATA[名称：下郷小学校<br>住所：神奈川県横浜市戸塚区戸塚町2447-2<br>施設種類：避難所<br>収容人数：-1<br>避難分類：地震]]></description>
+      <description><![CDATA[名称：下郷小学校<br>住所：神奈川県横浜市戸塚区戸塚町2447-2<br>施設種類：避難所<br>収容人数：不明<br>避難分類：地震]]></description>
       <styleUrl>#IconStyle00</styleUrl>
       <Point>
         <altitudeMode>clampToGround</altitudeMode>
@@ -20,7 +20,7 @@
     <Placemark id="ID_00001">
       <name></name>
       <Snippet></Snippet>
-      <description><![CDATA[名称：汲沢小学校<br>住所：神奈川県横浜市戸塚区汲沢3-6-l<br>施設種類：避難所<br>収容人数：-1<br>避難分類：地震]]></description>
+      <description><![CDATA[名称：汲沢小学校<br>住所：神奈川県横浜市戸塚区汲沢3-6-l<br>施設種類：避難所<br>収容人数：不明<br>避難分類：地震]]></description>
       <styleUrl>#IconStyle00</styleUrl>
       <Point>
         <altitudeMode>clampToGround</altitudeMode>
@@ -30,7 +30,7 @@
     <Placemark id="ID_00002">
       <name></name>
       <Snippet></Snippet>
-      <description><![CDATA[名称：汲沢中学校<br>住所：神奈川県横浜市戸塚区汲沢町550-2<br>施設種類：避難所<br>収容人数:-1<br>避難分類:地震]]></description>
+      <description><![CDATA[名称：汲沢中学校<br>住所：神奈川県横浜市戸塚区汲沢町550-2<br>施設種類：避難所<br>収容人数:不明<br>避難分類:地震]]></description>
       <styleUrl>#IconStyle00</styleUrl>
       <Point>
         <altitudeMode>clampToGround</altitudeMode>
@@ -40,7 +40,7 @@
     <Placemark id="ID_00003">
       <name></name>
       <Snippet></Snippet>
-      <description><![CDATA[名称：戸塚小学校<br>住所：神奈川県横浜市戸塚区戸塚町132<br>施設種類：避難所<br>収容人数：-1<br>避難分類：地震]]></description>
+      <description><![CDATA[名称：戸塚小学校<br>住所：神奈川県横浜市戸塚区戸塚町132<br>施設種類：避難所<br>収容人数：不明<br>避難分類：地震]]></description>
       <styleUrl>#IconStyle00</styleUrl>
       <Point>
         <altitudeMode>clampToGround</altitudeMode>
@@ -50,7 +50,7 @@
     <Placemark id="ID_00004">
       <name></name>
       <Snippet></Snippet>
-      <description><![CDATA[名称：小雀小学校<br>住所：神奈川県横浜市戸塚区小雀町1845<br>施設種類：避難所<br>収容人数：-1<br>避難分類：地震]]></description>
+      <description><![CDATA[名称：小雀小学校<br>住所：神奈川県横浜市戸塚区小雀町1845<br>施設種類：避難所<br>収容人数：不明<br>避難分類：地震]]></description>
       <styleUrl>#IconStyle00</styleUrl>
       <Point>
         <altitudeMode>clampToGround</altitudeMode>
@@ -60,7 +60,7 @@
     <Placemark id="ID_00005">
       <name></name>
       <Snippet></Snippet>
-      <description><![CDATA[名称：深谷小学校<br>住所：神奈川県横浜市戸塚区深谷町1688-2<br>施設種類：避難所<br>収容人数：-1<br>避難分類：地震と水害]]></description>
+      <description><![CDATA[名称：深谷小学校<br>住所：神奈川県横浜市戸塚区深谷町1688-2<br>施設種類：避難所<br>収容人数：不明<br>避難分類：地震と水害]]></description>
       <styleUrl>#IconStyle00</styleUrl>
       <Point>
         <altitudeMode>clampToGround</altitudeMode>
@@ -70,7 +70,7 @@
     <Placemark id="ID_00006">
       <name></name>
       <Snippet></Snippet>
-      <description><![CDATA[名称：深谷台小学校<br>住所：神奈川県横浜市戸塚区深谷町1312-1<br>施設種類：避難所<br>収容人数：-1<br>避難分類：地震と水害]]></description>
+      <description><![CDATA[名称：深谷台小学校<br>住所：神奈川県横浜市戸塚区深谷町1312-1<br>施設種類：避難所<br>収容人数：不明<br>避難分類：地震と水害]]></description>
       <styleUrl>#IconStyle00</styleUrl>
       <Point>
         <altitudeMode>clampToGround</altitudeMode>
@@ -80,7 +80,7 @@
     <Placemark id="ID_00007">
       <name></name>
       <Snippet></Snippet>
-      <description><![CDATA[名称：倉田小学校<br>住所：神奈川県横浜市戸塚区上倉田町1426-6<br>施設種類：避難所<br>収容人数：-1<br>避難分類：地震と水害]]></description>
+      <description><![CDATA[名称：倉田小学校<br>住所：神奈川県横浜市戸塚区上倉田町1426-6<br>施設種類：避難所<br>収容人数：不明<br>避難分類：地震と水害]]></description>
       <styleUrl>#IconStyle00</styleUrl>
       <Point>
         <altitudeMode>clampToGround</altitudeMode>
@@ -90,7 +90,7 @@
     <Placemark id="ID_00008">
       <name></name>
       <Snippet></Snippet>
-      <description><![CDATA[<名称：大正小学校<br>住所：神奈川県横浜市戸塚区原宿町4-17-1<br>施設種類：避難所<br>収容人数：-1<br>避難分類地震と水害]]></description>
+      <description><![CDATA[<名称：大正小学校<br>住所：神奈川県横浜市戸塚区原宿町4-17-1<br>施設種類：避難所<br>収容人数：不明<br>避難分類地震と水害]]></description>
       <styleUrl>#IconStyle00</styleUrl>
       <Point>
         <altitudeMode>clampToGround</altitudeMode>
@@ -100,7 +100,7 @@
     <Placemark id="ID_00009">
       <name></name>
       <Snippet></Snippet>
-      <description><![CDATA[名称：大正中学校<br>住所：神奈川県横浜市戸塚区原宿町4-12-1<br>施設種類：避難所<br>収容人数：-1<br>避難分類：地震]]></description>
+      <description><![CDATA[名称：大正中学校<br>住所：神奈川県横浜市戸塚区原宿町4-12-1<br>施設種類：避難所<br>収容人数：不明<br>避難分類：地震]]></description>
       <styleUrl>#IconStyle00</styleUrl>
       <Point>
         <altitudeMode>clampToGround</altitudeMode>
@@ -110,7 +110,7 @@
     <Placemark id="ID_00010">
       <name></name>
       <Snippet></Snippet>
-      <description><![CDATA[名称：東汲沢小学校<br>住所：神奈川県横浜市戸塚区汲沢1-16-1<br>施設種類：避難所<br>収容人数：-1<br>避難分類：地震]]></description>
+      <description><![CDATA[名称：東汲沢小学校<br>住所：神奈川県横浜市戸塚区汲沢1-16-1<br>施設種類：避難所<br>収容人数：不明<br>避難分類：地震]]></description>
       <styleUrl>#IconStyle00</styleUrl>
       <Point>
         <altitudeMode>clampToGround</altitudeMode>
@@ -120,7 +120,7 @@
     <Placemark id="ID_00011">
       <name></name>
       <Snippet></Snippet>
-      <description><![CDATA[名称：東俣野小学校<br>住所：神奈川県横浜市戸塚区東俣野町1103-1<br>施設種類：避難所<br>収容人数：-1<br>避難分類：地震と水害]]></description>
+      <description><![CDATA[名称：東俣野小学校<br>住所：神奈川県横浜市戸塚区東俣野町1103-1<br>施設種類：避難所<br>収容人数：不明<br>避難分類：地震と水害]]></description>
       <styleUrl>#IconStyle00</styleUrl>
       <Point>
         <altitudeMode>clampToGround</altitudeMode>
@@ -130,7 +130,7 @@
     <Placemark id="ID_00012">
       <name></name>
       <Snippet></Snippet>
-      <description><![CDATA[名称：南戸塚小学校<br>住所：神奈川県横浜市戸塚区戸塚町2790-3<br>施設種類：避難所<br>収容人数：-1<br>避難分類：地震と水害]]></description>
+      <description><![CDATA[名称：南戸塚小学校<br>住所：神奈川県横浜市戸塚区戸塚町2790-3<br>施設種類：避難所<br>収容人数：不明<br>避難分類：地震と水害]]></description>
       <styleUrl>#IconStyle00</styleUrl>
       <Point>
         <altitudeMode>clampToGround</altitudeMode>
@@ -140,7 +140,7 @@
     <Placemark id="ID_00013">
       <name></name>
       <Snippet></Snippet>
-      <description><![CDATA[名称：南戸塚中学校<br>住所：神奈川県横浜市戸塚区戸塚町1842-1<br>施設種類：避難所<br>収容人数：-1<br>避難分類：地震]]></description>
+      <description><![CDATA[名称：南戸塚中学校<br>住所：神奈川県横浜市戸塚区戸塚町1842-1<br>施設種類：避難所<br>収容人数：不明<br>避難分類：地震]]></description>
       <styleUrl>#IconStyle00</styleUrl>
       <Point>
         <altitudeMode>clampToGround</altitudeMode>
@@ -150,7 +150,7 @@
     <Placemark id="ID_00014">
       <name></name>
       <Snippet></Snippet>
-      <description><![CDATA[名称：南舞岡小学校<br>住所：神奈川県横浜市戸塚区南舞岡4-15-1<br>施設種類：避難所<br>収容人数：-1<br>避難分類：地震]]></description>
+      <description><![CDATA[名称：南舞岡小学校<br>住所：神奈川県横浜市戸塚区南舞岡4-15-1<br>施設種類：避難所<br>収容人数：不明<br>避難分類：地震]]></description>
       <styleUrl>#IconStyle00</styleUrl>
       <Point>
         <altitudeMode>clampToGround</altitudeMode>
@@ -160,7 +160,7 @@
     <Placemark id="ID_00015">
       <name></name>
       <Snippet></Snippet>
-      <description><![CDATA[名称：豊田中学校<br>住所：神奈川県横浜市戸塚区下倉田町950<br>施設種類：避難所<br>収容人数：-1<br>避難分類：地震と水害]]></description>
+      <description><![CDATA[名称：豊田中学校<br>住所：神奈川県横浜市戸塚区下倉田町950<br>施設種類：避難所<br>収容人数：不明<br>避難分類：地震と水害]]></description>
       <styleUrl>#IconStyle00</styleUrl>
       <Point>
         <altitudeMode>clampToGround</altitudeMode>
@@ -170,7 +170,7 @@
     <Placemark id="ID_00016">
       <name></name>
       <Snippet></Snippet>
-      <description><![CDATA[名称：俣野小学校<br>住所：神奈川県横浜市戸塚区俣野町371<br>施設種類：避難所<br>収容人数：-1<br>避難分類：地震]]></description>
+      <description><![CDATA[名称：俣野小学校<br>住所：神奈川県横浜市戸塚区俣野町371<br>施設種類：避難所<br>収容人数：不明<br>避難分類：地震]]></description>
       <styleUrl>#IconStyle00</styleUrl>
       <Point>
         <altitudeMode>clampToGround</altitudeMode>
@@ -180,7 +180,7 @@
     <Placemark id="ID_00017">
       <name></name>
       <Snippet></Snippet>
-      <description><![CDATA[名称：下野庭小学校<br>住所：神奈川県横浜市港南区野庭町602<br>施設種類：避難所<br>収容人数：-1<br>避難分類：地震]]></description>
+      <description><![CDATA[名称：下野庭小学校<br>住所：神奈川県横浜市港南区野庭町602<br>施設種類：避難所<br>収容人数：不明<br>避難分類：地震]]></description>
       <styleUrl>#IconStyle00</styleUrl>
       <Point>
         <altitudeMode>clampToGround</altitudeMode>
@@ -190,7 +190,7 @@
     <Placemark id="ID_00018">
       <name></name>
       <Snippet></Snippet>
-      <description><![CDATA[名称：丸山台中学校<br>住所：神奈川県横浜市港南区丸山台4-1-1<br>施設種類：避難所<br>収容人数：-1<br>避難分類：地震]]></description>
+      <description><![CDATA[名称：丸山台中学校<br>住所：神奈川県横浜市港南区丸山台4-1-1<br>施設種類：避難所<br>収容人数：不明<br>避難分類：地震]]></description>
       <styleUrl>#IconStyle00</styleUrl>
       <Point>
         <altitudeMode>clampToGround</altitudeMode>
@@ -200,7 +200,7 @@
     <Placemark id="ID_00019">
       <name></name>
       <Snippet></Snippet>
-      <description><![CDATA[名称：港南台第三小学校<br>住所：神奈川県横浜市港南区港南台2-14-l<br>施設種類：避難所<br>収容人数：-1<br>避難分類：地震]]></description>
+      <description><![CDATA[名称：港南台第三小学校<br>住所：神奈川県横浜市港南区港南台2-14-l<br>施設種類：避難所<br>収容人数：不明<br>避難分類：地震]]></description>
       <styleUrl>#IconStyle00</styleUrl>
       <Point>
         <altitudeMode>clampToGround</altitudeMode>
@@ -210,7 +210,7 @@
     <Placemark id="ID_00020">
       <name></name>
       <Snippet></Snippet>
-      <description><![CDATA[名称：港南台第二小学校<br>住所：神奈川県横浜市港南区港南台5-4-1<br>施設種類：避難所<br>収容人数：-1<br>避難分類：地震]]></description>
+      <description><![CDATA[名称：港南台第二小学校<br>住所：神奈川県横浜市港南区港南台5-4-1<br>施設種類：避難所<br>収容人数：不明<br>避難分類：地震]]></description>
       <styleUrl>#IconStyle00</styleUrl>
       <Point>
         <altitudeMode>clampToGround</altitudeMode>
@@ -220,7 +220,7 @@
     <Placemark id="ID_00021">
       <name></name>
       <Snippet></Snippet>
-      <description><![CDATA[名称：小坪小学校<br>住所：神奈川県横浜市港南区港南台4-11-l<br>施設種類：避難所<br>収容人数：-1<br>避難分類：地震]]></description>
+      <description><![CDATA[名称：小坪小学校<br>住所：神奈川県横浜市港南区港南台4-11-l<br>施設種類：避難所<br>収容人数：不明<br>避難分類：地震]]></description>
       <styleUrl>#IconStyle00</styleUrl>
       <Point>
         <altitudeMode>clampToGround</altitudeMode>
@@ -230,7 +230,7 @@
     <Placemark id="ID_00022">
       <name></name>
       <Snippet></Snippet>
-      <description><![CDATA[名称：日限山小学校<br>住所：神奈川県横浜市港南区日限山2-16-1<br>施設種類：避難所<br>収容人数：-1<br>避難分類：地震と水害]]></description>
+      <description><![CDATA[名称：日限山小学校<br>住所：神奈川県横浜市港南区日限山2-16-1<br>施設種類：避難所<br>収容人数：不明<br>避難分類：地震と水害]]></description>
       <styleUrl>#IconStyle00</styleUrl>
       <Point>
         <altitudeMode>clampToGround</altitudeMode>
@@ -240,7 +240,7 @@
     <Placemark id="ID_00023">
       <name></name>
       <Snippet></Snippet>
-      <description><![CDATA[名称：日限山中学校<br>住所：神奈川県横浜市港南区日限山4-33-l<br>施設種類：避難所<br>収容人数：-1<br>避難分類：地震]]></description>
+      <description><![CDATA[名称：日限山中学校<br>住所：神奈川県横浜市港南区日限山4-33-l<br>施設種類：避難所<br>収容人数：不明<br>避難分類：地震]]></description>
       <styleUrl>#IconStyle00</styleUrl>
       <Point>
         <altitudeMode>clampToGround</altitudeMode>
@@ -250,7 +250,7 @@
     <Placemark id="ID_00024">
       <name></name>
       <Snippet></Snippet>
-      <description><![CDATA[名称：日野小学校<br>住所：神奈川県横浜市港南区日野7-11-1<br>施設種類：避難所<br>収容人数：-1<br>避難分類：地震]]></description>
+      <description><![CDATA[名称：日野小学校<br>住所：神奈川県横浜市港南区日野7-11-1<br>施設種類：避難所<br>収容人数：不明<br>避難分類：地震]]></description>
       <styleUrl>#IconStyle00</styleUrl>
       <Point>
         <altitudeMode>clampToGround</altitudeMode>
@@ -260,7 +260,7 @@
     <Placemark id="ID_00025">
       <name></name>
       <Snippet></Snippet>
-      <description><![CDATA[名称：日野南小学校<br>住所：神奈川県横浜市港南区日野南6-35-1<br>施設種類：避難所<br>収容人数：-1<br>避難分類：地震]]></description>
+      <description><![CDATA[名称：日野南小学校<br>住所：神奈川県横浜市港南区日野南6-35-1<br>施設種類：避難所<br>収容人数：不明<br>避難分類：地震]]></description>
       <styleUrl>#IconStyle00</styleUrl>
       <Point>
         <altitudeMode>clampToGround</altitudeMode>
@@ -270,7 +270,7 @@
     <Placemark id="ID_00026">
       <name></name>
       <Snippet></Snippet>
-      <description><![CDATA[名称：日野南中学校<br>住所：神奈川県横浜市港南区港南台4-37-l<br>施設種類：避難所<br>収容人数：-1<br>避難分類：地震]]></description>
+      <description><![CDATA[名称：日野南中学校<br>住所：神奈川県横浜市港南区港南台4-37-l<br>施設種類：避難所<br>収容人数：不明<br>避難分類：地震]]></description>
       <styleUrl>#IconStyle00</styleUrl>
       <Point>
         <altitudeMode>clampToGround</altitudeMode>
@@ -280,7 +280,7 @@
     <Placemark id="ID_00027">
       <name></name>
       <Snippet></Snippet>
-      <description><![CDATA[名称：野庭すずかけ小学校<br>住所：神奈川県横浜市港南区野庭町346-2<br>施設種類：避難所<br>収容人数：-1<br>避難分類：地震]]></description>
+      <description><![CDATA[名称：野庭すずかけ小学校<br>住所：神奈川県横浜市港南区野庭町346-2<br>施設種類：避難所<br>収容人数：不明<br>避難分類：地震]]></description>
       <styleUrl>#IconStyle00</styleUrl>
       <Point>
         <altitudeMode>clampToGround</altitudeMode>
@@ -290,7 +290,7 @@
     <Placemark id="ID_00028">
       <name></name>
       <Snippet></Snippet>
-      <description><![CDATA[名称：野庭中学校<br>住所：神奈川県横浜市港南区野庭町630<br>施設種類：避難所<br>収容人数：-1<br>避難分類：地震]]></description>
+      <description><![CDATA[名称：野庭中学校<br>住所：神奈川県横浜市港南区野庭町630<br>施設種類：避難所<br>収容人数：不明<br>避難分類：地震]]></description>
       <styleUrl>#IconStyle00</styleUrl>
       <Point>
         <altitudeMode>clampToGround</altitudeMode>
@@ -300,7 +300,7 @@
     <Placemark id="ID_00029">
       <name></name>
       <Snippet></Snippet>
-      <description><![CDATA[名称：笠間小学校<br>住所：神奈川県横浜市栄区笠間町3-28-l<br>施設種類：避難所<br>収容人数：-1<br>避難分類：地震と水害]]></description>
+      <description><![CDATA[名称：笠間小学校<br>住所：神奈川県横浜市栄区笠間町3-28-l<br>施設種類：避難所<br>収容人数：不明<br>避難分類：地震と水害]]></description>
       <styleUrl>#IconStyle00</styleUrl>
       <Point>
         <altitudeMode>clampToGround</altitudeMode>
@@ -310,7 +310,7 @@
     <Placemark id="ID_00030">
       <name></name>
       <Snippet></Snippet>
-      <description><![CDATA[名称：旧野七里小学校<br>住所：神奈川県横浜市栄区野七里2-3-l<br>施設種類：避難所<br>収容人数：-1<br>避難分類：地震]]></description>
+      <description><![CDATA[名称：旧野七里小学校<br>住所：神奈川県横浜市栄区野七里2-3-l<br>施設種類：避難所<br>収容人数：不明<br>避難分類：地震]]></description>
       <styleUrl>#IconStyle00</styleUrl>
       <Point>
         <altitudeMode>clampToGround</altitudeMode>
@@ -320,7 +320,7 @@
     <Placemark id="ID_00031">
       <name></name>
       <Snippet></Snippet>
-      <description><![CDATA[名称：桂台小学校<br>住所：神奈川県横浜市栄区桂台南1-1-1<br>施設種類：避難所<br>収容人数：-1<br>避難分類：地震]]></description>
+      <description><![CDATA[名称：桂台小学校<br>住所：神奈川県横浜市栄区桂台南1-1-1<br>施設種類：避難所<br>収容人数：不明<br>避難分類：地震]]></description>
       <styleUrl>#IconStyle00</styleUrl>
       <Point>
         <altitudeMode>clampToGround</altitudeMode>
@@ -330,7 +330,7 @@
     <Placemark id="ID_00032">
       <name></name>
       <Snippet></Snippet>
-      <description><![CDATA[名称：桂台中学校<br>住所：神奈川県横浜市栄区桂台中5-1<br>施設種類：避難所<br>収容人数：-1<br>避難分類：地震]]></description>
+      <description><![CDATA[名称：桂台中学校<br>住所：神奈川県横浜市栄区桂台中5-1<br>施設種類：避難所<br>収容人数：不明<br>避難分類：地震]]></description>
       <styleUrl>#IconStyle00</styleUrl>
       <Point>
         <altitudeMode>clampToGround</altitudeMode>
@@ -340,7 +340,7 @@
     <Placemark id="ID_00033">
       <name></name>
       <Snippet></Snippet>
-      <description><![CDATA[名称：公田小学校<br>住所：神奈川県横浜市栄区公田町354-3<br>施設種類：避難所<br>収容人数：-1<br>避難分類：地震と水害]]></description>
+      <description><![CDATA[名称：公田小学校<br>住所：神奈川県横浜市栄区公田町354-3<br>施設種類：避難所<br>収容人数：不明<br>避難分類：地震と水害]]></description>
       <styleUrl>#IconStyle00</styleUrl>
       <Point>
         <altitudeMode>clampToGround</altitudeMode>
@@ -350,7 +350,7 @@
     <Placemark id="ID_00034">
       <name></name>
       <Snippet></Snippet>
-      <description><![CDATA[名称：桜井小学校<br>住所：神奈川県横浜市栄区上郷町242-2<br>施設種類：避難所<br>収容人数：-1<br>避難分類：地震と水害]]></description>
+      <description><![CDATA[名称：桜井小学校<br>住所：神奈川県横浜市栄区上郷町242-2<br>施設種類：避難所<br>収容人数：不明<br>避難分類：地震と水害]]></description>
       <styleUrl>#IconStyle00</styleUrl>
       <Point>
         <altitudeMode>clampToGround</altitudeMode>
@@ -360,7 +360,7 @@
     <Placemark id="ID_00035">
       <name></name>
       <Snippet></Snippet>
-      <description><![CDATA[名称：小山台小学校<br>住所：神奈川県横浜市栄区小山台1-15-1<br>施設種類：避難所<br>収容人数：-1<br>避難分類：地震]]></description>
+      <description><![CDATA[名称：小山台小学校<br>住所：神奈川県横浜市栄区小山台1-15-1<br>施設種類：避難所<br>収容人数：不明<br>避難分類：地震]]></description>
       <styleUrl>#IconStyle00</styleUrl>
       <Point>
         <altitudeMode>clampToGround</altitudeMode>
@@ -370,7 +370,7 @@
     <Placemark id="ID_00036">
       <name></name>
       <Snippet></Snippet>
-      <description><![CDATA[名称：小菅ヶ谷小学校<br>住所：神奈川県横浜市栄区本郷台4-31-1<br>施設種類：避難所<br>収容人数：-1<br>避難分類：地震]]></description>
+      <description><![CDATA[名称：小菅ヶ谷小学校<br>住所：神奈川県横浜市栄区本郷台4-31-1<br>施設種類：避難所<br>収容人数：不明<br>避難分類：地震]]></description>
       <styleUrl>#IconStyle00</styleUrl>
       <Point>
         <altitudeMode>clampToGround</altitudeMode>
@@ -380,7 +380,8 @@
     <Placemark id="ID_00037">
       <name></name>
       <Snippet></Snippet>
-      <description><![CDATA[名称：上郷小学校<br>住所：神奈川県横浜市栄区犬山町6-1<br>施設種類：避難所<br>収容人数：-1<br>避難分類：地震と水害]]></description>
+      <description><![CDATA[名称：上郷小学校<br>住所：神奈川県横浜市栄区犬山町6-1<br>施設種類：避難所<br>収容人数：不明<br>避難分類：地震と水害
+]]></description>
       <styleUrl>#IconStyle00</styleUrl>
       <Point>
         <altitudeMode>clampToGround</altitudeMode>
@@ -390,7 +391,7 @@
     <Placemark id="ID_00038">
       <name></name>
       <Snippet></Snippet>
-      <description><![CDATA[名称：西本郷小学校<br>住所：神奈川県横浜市栄区小菅ヶ谷2-22-1<br>施設種類：避難所<br>収容人数：-1<br>避難分類：地震と水害]]></description>
+      <description><![CDATA[名称：西本郷小学校<br>住所：神奈川県横浜市栄区小菅ヶ谷2-22-1<br>施設種類：避難所<br>収容人数：不明<br>避難分類：地震と水害]]></description>
       <styleUrl>#IconStyle00</styleUrl>
       <Point>
         <altitudeMode>clampToGround</altitudeMode>
@@ -400,7 +401,7 @@
     <Placemark id="ID_00039">
       <name></name>
       <Snippet></Snippet>
-      <description><![CDATA[名称：西本郷中学校<br>住所：神奈川県横浜市栄区小菅ヶ谷1-29-1<br>施設種類：避難所<br>収容人数：-1<br>避難分類：地震と水害]]></description>
+      <description><![CDATA[名称：西本郷中学校<br>住所：神奈川県横浜市栄区小菅ヶ谷1-29-1<br>施設種類：避難所<br>収容人数：不明<br>避難分類：地震と水害]]></description>
       <styleUrl>#IconStyle00</styleUrl>
       <Point>
         <altitudeMode>clampToGround</altitudeMode>
@@ -410,7 +411,7 @@
     <Placemark id="ID_00040">
       <name></name>
       <Snippet></Snippet>
-      <description><![CDATA[名称：千秀小学校<br>住所：神奈川県横浜市栄区田谷町1832<br>施設種類：避難所<br>収容人数：-1<br>避難分類：地震と水害]]></description>
+      <description><![CDATA[名称：千秀小学校<br>住所：神奈川県横浜市栄区田谷町1832<br>施設種類：避難所<br>収容人数：不明<br>避難分類：地震と水害]]></description>
       <styleUrl>#IconStyle00</styleUrl>
       <Point>
         <altitudeMode>clampToGround</altitudeMode>
@@ -420,7 +421,7 @@
     <Placemark id="ID_00041">
       <name></name>
       <Snippet></Snippet>
-      <description><![CDATA[名称：飯島小学校<br>住所：神奈川県横浜市栄区飯島町771-2<br>施設種類：避難所<br>収容人数：-1<br>避難分類：地震と水害]]></description>
+      <description><![CDATA[名称：飯島小学校<br>住所：神奈川県横浜市栄区飯島町771-2<br>施設種類：避難所<br>収容人数：不明<br>避難分類：地震と水害]]></description>
       <styleUrl>#IconStyle00</styleUrl>
       <Point>
         <altitudeMode>clampToGround</altitudeMode>
@@ -430,7 +431,7 @@
     <Placemark id="ID_00042">
       <name></name>
       <Snippet></Snippet>
-      <description><![CDATA[名称：飯島中学校<br>住所：神奈川県横浜市栄区飯島町746-1<br>施設種類：避難所<br>収容人数：-1<br>避難分類：地震と水害]]></description>
+      <description><![CDATA[名称：飯島中学校<br>住所：神奈川県横浜市栄区飯島町746-1<br>施設種類：避難所<br>収容人数：不明<br>避難分類：地震と水害]]></description>
       <styleUrl>#IconStyle00</styleUrl>
       <Point>
         <altitudeMode>clampToGround</altitudeMode>
@@ -440,7 +441,7 @@
     <Placemark id="ID_00043">
       <name></name>
       <Snippet></Snippet>
-      <description><![CDATA[名称：豊田小学校<br>住所：神奈川県横浜市栄区長沼町125-4<br>施設種類：避難所<br>収容人数：-1<br>避難分類：地震と水害]]></description>
+      <description><![CDATA[名称：豊田小学校<br>住所：神奈川県横浜市栄区長沼町125-4<br>施設種類：避難所<br>収容人数：不明<br>避難分類：地震と水害]]></description>
       <styleUrl>#IconStyle00</styleUrl>
       <Point>
         <altitudeMode>clampToGround</altitudeMode>
@@ -450,7 +451,7 @@
     <Placemark id="ID_00044">
       <name></name>
       <Snippet></Snippet>
-      <description><![CDATA[名称：本郷小学校<br>住所：神奈川県横浜市栄区中野町16-1<br>施設種類：避難所<br>収容人数：-1<br>避難分類：地震と水害]]></description>
+      <description><![CDATA[名称：本郷小学校<br>住所：神奈川県横浜市栄区中野町16-1<br>施設種類：避難所<br>収容人数：不明<br>避難分類：地震と水害]]></description>
       <styleUrl>#IconStyle00</styleUrl>
       <Point>
         <altitudeMode>clampToGround</altitudeMode>
@@ -460,7 +461,7 @@
     <Placemark id="ID_00045">
       <name></name>
       <Snippet></Snippet>
-      <description><![CDATA[名称：本郷台小学校<br>住所：神奈川県横浜市栄区本郷台1-6-l<br>施設種類:避難所<br>収容人数:-1<br>避難分類:地震と水害]]></description>
+      <description><![CDATA[名称：本郷台小学校<br>住所：神奈川県横浜市栄区本郷台1-6-l<br>施設種類:避難所<br>収容人数:不明<br>避難分類:地震と水害]]></description>
       <styleUrl>#IconStyle00</styleUrl>
       <Point>
         <altitudeMode>clampToGround</altitudeMode>
@@ -470,7 +471,7 @@
     <Placemark id="ID_00046">
       <name></name>
       <Snippet></Snippet>
-      <description><![CDATA[名称:本郷中学校<br>住所:神奈川県横浜市栄区桂町84-14<br>施設種類:避難所<br>収容人数:-1<br>避難分類:地震と水害]]></description>
+      <description><![CDATA[名称:本郷中学校<br>住所:神奈川県横浜市栄区桂町84-14<br>施設種類:避難所<br>収容人数:不明<br>避難分類:地震と水害]]></description>
       <styleUrl>#IconStyle00</styleUrl>
       <Point>
         <altitudeMode>clampToGround</altitudeMode>
